@@ -1,0 +1,3 @@
+# WND Conferentieverslagen
+
+Deze pagina geeft toegang tot de verslagen van de WND-conferenties vanaf 1971 tot vijf jaar voor de meest recente conferentie. Van de vijf meest recente conferenties zijn de verslagen toegestuurd aan de leden van de WND maar deze verslagen zijn nog niet voor iedereen toegankelijk via deze website. Onderstaand zijn wel de programma’s en voorinformatie over lezingen en werkgroepen te vinden.
