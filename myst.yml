@@ -13,30 +13,31 @@ project:
     - file: intro.md
     - title: '2000-'
       children:
-        - file: 00\2000.md
+        - file: 00/2000.md
     - title: '1990-'
       children:
-        - file: 90\1990.md    
+        - file: 90/1990.md    
     - title: '1980-'
       children:
-        - file: 80\1980.md  
+        - file: 80/1980.md  
     - title: '1970-'
       children:
         - file: 70/1970-WNDv.md
         - file: 70/1971-WNDv.md
-        - file: 70\1972.md
-        - file: 70\1973.md
-        - file: 70\1974.md
-        - file: 70\1975.md
-        - file: 70\1976.md
-        - file: 70\1977.md
-        - file: 70\1978.md
-        - file: 70\1979.md
+        - file: 70/1972.md
+        - file: 70/1973.md
+        - file: 70/1974.md
+        - file: 70/1975.md
+        - file: 70/1976.md
+        - file: 70/1977.md
+        - file: 70/1978.md
+        - file: 70/1979.md
    
     
     
 site:
   template: book-theme
-  # options:
+  options:
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+    logo: logo.svg
+    
