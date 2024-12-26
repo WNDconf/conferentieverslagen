@@ -22,8 +22,8 @@ project:
         - file: 80\1980.md  
     - title: '1970-'
       children:
-        - file: 70\1970-WNDv.md
-        - file: 70\1971-WNDv.md
+        - file: 70/1970-WNDv.md
+        - file: 70/1971-WNDv.md
         - file: 70\1972.md
         - file: 70\1973.md
         - file: 70\1974.md
